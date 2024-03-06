@@ -87,7 +87,7 @@ const ContactForm = () => {
               className="bg-slate-200 p-6 rounded-xl"
             >
               <div className="flex flex-col gap-4 p-6">
-                <div className="relative h-11 w-full min-w-[200px] mb-8">
+                <div className="relative h-5 w-full min-w-[200px] mb-8">
                   <label className="font-bold mb-4">Name:</label>
                   <input
                     type="text"
